@@ -11,5 +11,7 @@ void main() {
   String c = "schöne";
   String morning = "Morgen";
   String heute = "Heute";
-  String spa = "";
+  String spa = " ";
+
+  print(gdStr + spa + dayStr + dd);
 }
