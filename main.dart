@@ -10,8 +10,8 @@ void main() {
   int a = 24;
   String c = "schöne";
   String morning = "Morgen";
-  String heute = "Heute";
+  String s = "Heute";
   String spa = " ";
 
-  print(gdStr + spa + dayStr + dd);
+  print("s" + "morning");
 }
